@@ -40,6 +40,10 @@ body {
     animation: slideRight 1s ease forwards;
 }
 
+.logo span {
+    color: #0ef;
+}
+
 .navbar a {
     display: inline-block;
     font-size: 25px;
@@ -540,6 +544,7 @@ body {
     padding: 0px;
     overflow: hidden;
 }
+
 
 .row img {
     width: 100%;
